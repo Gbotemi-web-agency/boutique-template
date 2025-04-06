@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/boutique-template/static/css/main.6bc68806.css",
+    "main.js": "/boutique-template/static/js/main.2f0cc2e8.js",
+    "static/css/300.5e5faae6.chunk.css": "/boutique-template/static/css/300.5e5faae6.chunk.css",
+    "static/js/300.74595dbd.chunk.js": "/boutique-template/static/js/300.74595dbd.chunk.js",
+    "static/js/787.c875205c.chunk.js": "/boutique-template/static/js/787.c875205c.chunk.js",
+    "static/js/113.a7d27183.chunk.js": "/boutique-template/static/js/113.a7d27183.chunk.js",
+    "static/media/boutique001.jpg": "/boutique-template/static/media/boutique001.a3a507830c0b19083b2d.jpg",
+    "static/media/boutique003.jpg": "/boutique-template/static/media/boutique003.095f67268e80d6078948.jpg",
+    "static/media/boutique004.jpg": "/boutique-template/static/media/boutique004.5665e9f8f392681a7638.jpg",
+    "static/media/boutique002.jpg": "/boutique-template/static/media/boutique002.f35d7476f59a112d4a98.jpg",
+    "static/media/twelve.jpg": "/boutique-template/static/media/twelve.103704849db4464ab01e.jpg",
+    "static/media/six.jpg": "/boutique-template/static/media/six.3cf05c821cee572e7179.jpg",
+    "static/media/nine.jpg": "/boutique-template/static/media/nine.f7d8e523cc4f215e61d5.jpg",
+    "static/media/three.jpg": "/boutique-template/static/media/three.4e3781a58dfe7f7f5734.jpg",
+    "static/media/eight.jpg": "/boutique-template/static/media/eight.b4c5a90621c101000106.jpg",
+    "static/media/ten.jpg": "/boutique-template/static/media/ten.f7319e4a5fb1bbfe66d2.jpg",
+    "static/media/seven.jpg": "/boutique-template/static/media/seven.833b14755c10a5c55b03.jpg",
+    "static/media/two.jpg": "/boutique-template/static/media/two.36a69636f8d273957380.jpg",
+    "static/media/one.jpg": "/boutique-template/static/media/one.059abf83555c6868c989.jpg",
+    "static/media/slick.svg": "/boutique-template/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/boutique-template/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/boutique-template/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/boutique-template/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/boutique-template/index.html",
+    "main.6bc68806.css.map": "/boutique-template/static/css/main.6bc68806.css.map",
+    "main.2f0cc2e8.js.map": "/boutique-template/static/js/main.2f0cc2e8.js.map",
+    "300.5e5faae6.chunk.css.map": "/boutique-template/static/css/300.5e5faae6.chunk.css.map",
+    "300.74595dbd.chunk.js.map": "/boutique-template/static/js/300.74595dbd.chunk.js.map",
+    "787.c875205c.chunk.js.map": "/boutique-template/static/js/787.c875205c.chunk.js.map",
+    "113.a7d27183.chunk.js.map": "/boutique-template/static/js/113.a7d27183.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bc68806.css",
+    "static/js/main.2f0cc2e8.js"
+  ]
+}
