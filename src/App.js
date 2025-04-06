@@ -24,11 +24,7 @@ function App() {
         />
         <NavBar />
         <Routes>
-          <Route path="" element={<Home />} />
-          {/* <Route path="" element={<Shop />} /> */}
-          {/* <Route path="" element={<Product />} /> */}
-          {/* <Route path="" element={<Cart />} /> */}
-          {/* <Route path="" element={<Blog />} /> */}
+          <Route path="/" element={<Home />} />
         </Routes>
         <Footer />
       </Router>
